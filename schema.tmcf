@@ -1,0 +1,6 @@
+Node: E:Limited_Access_Healthy_Food_WA->E2
+typeOf: dcs:CensusTract
+
+Node: E:Limited_Access_Healthy_Food_WA->E3
+observationAbout: E:Limited_Access_Healthy_Food_WA->E2
+typeOf: dcs:StatVarObservation
